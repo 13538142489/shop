@@ -1,2 +1,2 @@
 alert("hello word");
-console.log("bb");
+console.log("aa");
